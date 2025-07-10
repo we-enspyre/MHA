@@ -1,4 +1,4 @@
-#🎨 Stack & Libraries
+# 🎨 Stack & Libraries
 
 * React + Vite (fast build)
 
