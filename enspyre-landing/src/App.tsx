@@ -5,9 +5,10 @@ function App() {
   return (
     <div className="relative">
       <Navbar />
+        <HeroSection />
+
       <main className="pt-20">
         <section id="hero" className="h-screen bg-gray-50 flex items-center justify-center">
-        <HeroSection />
         </section>
         <section id="gallery" className="h-screen bg-blue-50 flex items-center justify-center">
           <h2 className="text-3xl">Gallery Section</h2>
