@@ -11,3 +11,5 @@
 * react-icons (icons)
 
 * gh-pages (deployment)
+
+>Running the app is with **npm run dev**
