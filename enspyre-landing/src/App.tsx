@@ -1,11 +1,11 @@
-import Navbar from "./components/Navbar";
-import HeroSection from "./components/heroSection";
+import Navbar from "./components/navBar";
+import Hero from "./components/heroSection";
 
 function App() {
   return (
     <div className="relative">
       <Navbar />
-        <HeroSection />
+        <Hero />
 
       <main className="pt-20">
         <section id="hero" className="h-screen bg-gray-50 flex items-center justify-center">
